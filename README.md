@@ -338,6 +338,12 @@ Below are examples that demonstrate how to apply the guidelines and tips effecti
 - **Expected Response:**
   - "As of my last update in September 2023, I cannot predict future election outcomes. Election results depend on various factors and can be influenced by ongoing events."
 
+## License
+
+This project is licensed under the Apache License 2.0.
+
+
+
 - **References:**
   - **Instruct on Handling Uncertainty (Guideline 9).**
   - **Specify Knowledge Cutoff Dates (Guideline 13).**
