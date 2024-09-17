@@ -108,6 +108,14 @@ By mastering these concepts, you can leverage AI models more effectively for tas
     - **Explanation:** Ask the AI to summarize or restate the instructions to ensure comprehension.
     - **Example:** "Before proceeding, please summarize the task in your own words."
 
+21. **Keep Augmented Context in Mind:**
+    - **Explanation:** often the context required to answer requires precise information in order to reach the correct answer, if those can be found online (and the model allows it) just specify to browse for it. Otherwise you need to provide it in other ways (ie. RAG)
+    - **Example:** "What is ____, feel free to browse."
+
+22. **Multi-step process:**
+    - **Explanation:** certain tasks can't be performaed with one prompt and one model, you can use several iteration in order to reach the prompt that allows another model to complete the task
+    - **Example:** gpt-4 "Browse all the info about X and summarize it in a organized fashion using markdown format." then to o1 ""Find out [...] using the following info [paste from previous model]"
+
 ## Tips
 
 1. **Start with a Simple Prompt and Build Upon It:**
