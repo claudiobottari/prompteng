@@ -1,12 +1,8 @@
-# Insights on LLMs and Prompt Engineering
-
-## Why Prompt Engineering is Making a Comeback
-With the release of OpenAI’s o1, I’ve noticed that prompt engineering has regained importance. Here’s why...
-
 ## Anthropic Claude System Prompts
 Recently, I reviewed Anthropic Claude's approach to system prompts and here are the highlights...
 
 # Prompt Engineering Guide
+**Note:** These notes are derived directly from the analysis of Anthropic's system prompts, as it represents one of the most recent and reliable sources on the topic. That said, much of this information is not groundbreaking and aligns with established best practices in the field. In my view, prompt engineering is 90% common sense, especially when one has a solid understanding of how large language models (LLMs) function. The key principles often become clear once the inner workings of these models are grasped.
 
 ## INTRODUCTION AND GENERAL CONCEPTS
 Prompt engineering is the process of designing and structuring prompts that guide AI models to produce desired responses. In the context of AI models like Claude 3 and its variations, creating effective prompts is essential for improving the quality, precision, and usefulness of the output. Anthropic has demonstrated their approach by releasing their system prompts, which provide a framework for how their models function, offering valuable insights into how to structure prompts for similar systems.
