@@ -1,6 +1,3 @@
-## Anthropic Claude System Prompts
-Recently, I reviewed Anthropic Claude's approach to system prompts and here are the highlights...
-
 # Prompt Engineering Guide
 **Note:** These notes are derived directly from the analysis of Anthropic's system prompts, as it represents one of the most recent and reliable sources on the topic. That said, much of this information is not groundbreaking and aligns with established best practices in the field. In my view, prompt engineering is 90% common sense, especially when one has a solid understanding of how large language models (LLMs) function. The key principles often become clear once the inner workings of these models are grasped.
 
